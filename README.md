@@ -77,7 +77,3 @@ Su enfoque de bajo costo y alto valor clínico contribuye a mejorar los resultad
 [4] D. Borms, I. Ackerman, P. Smets, G. Van den Berge, and A. M. Cools, "Biceps Disorder Rehabilitation for the Athlete: A Continuum of Moderate- to High-Load Exercises," *The American Journal of Sports Medicine*, vol. 45, no. 3, pp. 642–650, Mar. 2017, doi:10.1177/03635465166.
 
 ---
-
-## 📦 Estructura del Repositorio
-
-# MEASUTRAINER
