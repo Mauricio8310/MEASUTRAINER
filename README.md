@@ -1,10 +1,10 @@
 # 🧠 MEASUTRAINER
 **Monitor de Actividad Muscular para Ejercicio y Rehabilitación**
 
-## 👥 Autores
-Mauricio Gael Uribe Ramírez  
+## 👥 Autores 
 Axel Jared Herrera Moreno  
-Carlos Antonio Cortes Ríos  
+Carlos Antonio Cortes Ríos
+Mauricio Gael Uribe Ramírez 
 **Asesora:** Dra. Laura Paulina Osuna Carrasco  
 Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI), Universidad de Guadalajara
 
