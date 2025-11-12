@@ -4,7 +4,7 @@
 ## 👥 Autores 
 Axel Jared Herrera Moreno  
 Carlos Antonio Cortes Ríos
-Mauricio Gael Uribe Ramírez
+Mauricio Gael Uribe Ramírez\n
 **Asesora:** Dra. Laura Paulina Osuna Carrasco  
 Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI), Universidad de Guadalajara
 
