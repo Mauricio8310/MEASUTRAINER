@@ -52,7 +52,7 @@ print("¡Modelo final entrenado!")
 print("-" * 30)
 
 # --- PASO 5: Guardar el Modelo y Scaler Finales ---
-# Estos son los archivos que usarás en tu aplicación en tiempo real
+# Estos son los archivos que serán usados en la aplicación en tiempo real
 joblib.dump(model, 'modelo_emg_FINAL.joblib')
 joblib.dump(scaler, 'scaler_emg_FINAL.joblib')
 
@@ -60,4 +60,3 @@ print("¡Modelo y Scaler FINALES guardados exitosamente!")
 print("Archivos creados:")
 print(f"  {os.path.join(script_dir, 'modelo_emg_FINAL.joblib')}")
 print(f"  {os.path.join(script_dir, 'scaler_emg_FINAL.joblib')}")
-print("\nEstos son los archivos que debes cargar en tu programa de detección en tiempo real.")
